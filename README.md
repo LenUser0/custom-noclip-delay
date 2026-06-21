@@ -16,13 +16,6 @@ Install
 2. Place in `geode/mods/`
 3. Launch Geometry Dash
 
-Build
-Requires Geode SDK, CMake 3.25+, C++17
-git clone https://github.com/LenUser/custom-noclip-delay
-cd custom-noclip-delay
-geode build
-Output: `build/CustomNoclipDelay.geode`
-
 Usage
 Open Pause Menu → click spike icon → set target % and options.  
 Drag "Drag Me to Position!" label to move HUD.
